@@ -1,6 +1,6 @@
 ---
-layout: 
-title:  "Mark-down-Preview
+Layout: 
+Title:  "Mark-down-Preview"
 date:   2018-03-29 09:40
 categories: 
 ---

@@ -5,8 +5,9 @@ date:   2018-03-26 09:40
 categories: 
 ---
  # React-life-cycle
- A human being has a life-cycle,he is born he grows and dies so does react,It also has its own life-cycle.
- Life cycle is difined as a the series of changes in the life.
+ 
+A human being has a life-cycle,he is born he grows and dies so does react,It also has its own life-cycle.
+Life cycle is difined as a the series of changes in the life.
  The react life cycle is made up of the following:
 The life cyle is divided into three main sections which is the Initializationt, State Changes and the Props changes
 
