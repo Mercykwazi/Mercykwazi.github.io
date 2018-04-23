@@ -1,6 +1,6 @@
 ---
-layout: 
-title:  "Document Object Model"
+Layout: 
+Title:  "Document Object Model"
 date:   2018-03-27 09:40
 categories: 
 ---
