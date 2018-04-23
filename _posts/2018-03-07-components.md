@@ -1,6 +1,6 @@
 ---
-layout: 
-title:  "Components"
+Layout: 
+Title:  "Components"
 date:   2018-03-07 09:40
 categories: 
 ---
