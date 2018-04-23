@@ -1,5 +1,6 @@
-layout: 
-title:  "Absolute vs. Relative Paths"
+---
+Layout: 
+Title:  "Absolute vs Relative Paths"
 date:   2018-04-20 09:40
 categories: 
 ---
