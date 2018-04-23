@@ -1,6 +1,6 @@
 ---
-layout: 
-title:  "react-life-cycle"
+Layout: 
+Title:  "react-life-cycle"
 date:   2018-03-26 09:40
 categories: 
 ---
