@@ -1,6 +1,6 @@
 ---
-layout: 
-title:  "simon-game"
+Layout: 
+Title:  "simon-game"
 date:   2017-02-21 09:40
 categories: 
 ---
