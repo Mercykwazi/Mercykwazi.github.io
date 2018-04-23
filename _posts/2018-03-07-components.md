@@ -1,6 +1,6 @@
 ---
 layout: 
-title:  "react"
+title:  "Components"
 date:   2018-03-07 09:40
 categories: 
 ---
