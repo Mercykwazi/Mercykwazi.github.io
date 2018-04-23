@@ -86,3 +86,4 @@ The purpose of this function was to enable the user to restart the game if they 
         startGame();
 
     }
+    }
