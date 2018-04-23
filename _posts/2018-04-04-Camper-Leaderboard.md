@@ -1,6 +1,6 @@
 ---
-layout: 
-title:  "Building a Camper Leaderboard
+Layout: 
+Title:  "Building a Camper Leaderboard"
 date:   2018-04-04 09:40
 categories: 
 ---
