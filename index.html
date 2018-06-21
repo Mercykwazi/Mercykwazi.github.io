@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121214571-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-121214571-1');
+</script>
+
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <title>My Web Page</title>
 <style>
@@ -29,12 +39,9 @@ h5{margin-bottom:50px;
    font-size:25px;
 }
 ul{font-size:25px;
-
 }
 .header {height:300px}
 .main {height:350px}
-.footer {
-}
 .menu {height:90px}
 img {
 text-align:right;
@@ -54,6 +61,19 @@ text-align:right;
 	height:300px;
 	border:8px solid;
   border-radius:40px;
+}
+.myButton {
+    background-color: #333;;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 24px
 }
 
 nav{background-color: silver;}
@@ -95,9 +115,9 @@ I believe design is earned.An idea, a concept, a masterpiece is only as powerful
 <nav class="container-fluid">
     <div class ="row">
         <div class="col-md-12"><h5><em>To know more about me click below ... </em></h5>
-            <a href ="about me.html"><button class="btn btn-success"><i class="fa fa-Mercy"></i>MERCY</button></a>
-            <a href ="coding-ground.html"><button class="btn btn-success"><i class="fa fa-Mercy"></i>coding-ground</button></a>
-            <a href="https://github.com/Mercykwazi/Mercykwazi.github.io"><button class="btn btn-success"><i class="fa fa-github"></i>Github</button></a>
+            <a href ="about me.html"><button class="myButton"><i class="fa fa-Mercy"></i>MERCY</button></a>
+            <a href ="coding-ground.html"><button class="myButton"><i class="fa fa-Mercy"></i>coding-ground</button></a>
+            <a href="https://github.com/Mercykwazi/Mercykwazi.github.io"><button class="myButton"><i class="fa fa-github"></i>Github</button></a>
         </div>
     </div>
 </nav>
